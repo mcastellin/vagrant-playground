@@ -73,3 +73,5 @@ Two types of shutdown:
 Rebooting a guest:
 - `vagrant reload` is also used to reboot a guest
 
+Reprovision machines
+- `vagrant up|reload --provision
